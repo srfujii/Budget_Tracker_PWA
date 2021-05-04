@@ -20,7 +20,7 @@
 
   This app is deployed live on heroku, and you can see it live at:
 
-  [Live Deployed Application](https://infinite-anchorage-97440.herokuapp.com/)
+  [Live Deployed Application](https://mysterious-waters-30502.herokuapp.com/)
   
   To install locally, do the following: 
   

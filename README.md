@@ -50,11 +50,14 @@
 
   ## Screenshots
 
-  ![Screenshot](./public/img/image01.png)
-  ![Screenshot](./public/img/image02.png)
-  ![Screenshot](./public/img/image03.png)
-  ![Screenshot](./public/img/image04.png)
-  ![Screenshot](./public/img/image05.png)
+  ![Screenshot](./public/img/image1.png)
+  ![Screenshot](./public/img/image2.png)
+  ![Screenshot](./public/img/image3.png)
+  ![Screenshot](./public/img/image4.png)
+  ![Screenshot](./public/img/image5.png)
+  ![Screenshot](./public/img/image6.png)
+  ![Screenshot](./public/img/image7.png)
+  ![Screenshot](./public/img/image8.png)
 
 
   ## License
